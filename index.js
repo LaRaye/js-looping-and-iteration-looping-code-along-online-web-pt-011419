@@ -7,3 +7,8 @@ function writeCards(namesArray, eventName) {
   }
   return thankYouArray;
 }
+
+function countdown () {
+
+  
+}
