@@ -4,6 +4,6 @@ function writeCards(namesArray, eventName) {
   for (let i = 0; i < namesArray.length; i++) {
     thankYouArray[i] = `Thank you, ${namesArray[i]}, for the wonderful ${eventName} gift!`;
     
-  return thankYouArray;
   }
+  return thankYouArray;
 }
