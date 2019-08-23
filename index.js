@@ -12,6 +12,8 @@ function countdown (someInteger) {
   let counter = someInteger;
   
   while (counter !== 0) {
-   console.log(counter--); 
+   console.log(counter);
+   
+   counter 
   }
 }
